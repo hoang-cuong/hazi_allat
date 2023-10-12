@@ -1,0 +1,82 @@
+.container-fluid{
+background-image: url(kutya.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: auto;
+height: 600px;
+float: right;
+background-attachment: scroll;
+}
+.lista{
+background-color: rgb(63, 80, 58);
+
+}
+a {
+text-decoration: none;
+color: rgb(63, 80, 58);
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+float: right;
+}
+p{
+color: aliceblue;
+font-size: 20px;
+line-height: 5px;
+letter-spacing: 5px;
+}
+ul{
+
+    color: aliceblue;
+    font-size: 20px;
+}
+.bevezeto{
+width: auto;
+margin: 25px 0px;
+text-align: right;
+
+}
+h1{
+
+    color:aliceblue;
+
+}
+
+
+h2{
+
+    color: aliceblue;
+}
+body{
+background-color: rgb(63, 80, 58);
+
+}
+
+
+span{
+background-color: azure;
+float: right;
+
+}
+.szoveg{
+text-align: right;
+background-color: rgb(63, 80, 58, 50%) ;
+width: 300px;
+height: 400px;
+margin-right: 100px;
+
+
+}
+span>a{
+    text-decoration: none;
+    color: rgb(63, 80, 58);
+}
+span>a:hover
+{
+    font-size: 15px;
+    color: rgb(63, 80, 58);
+}
+.tortenet
+{
+    padding: 10px 5px;
+    line-height: 25px;
+}
